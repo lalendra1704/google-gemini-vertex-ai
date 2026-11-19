@@ -1,2 +1,14 @@
-# google-gemini-vertex-ai
-ands-on notes, demos, and quick revision resources for Google Gemini, Vertex AI, prompting, fine-tuning, Gemini API, agents, Google Search, and code execution.
+
+
+Google Gemini Integration
+
+Topics Covered
+Vertex AI Studio & Gemini API
+Google AI Studio vs Vertex AI
+Prompt Engineering
+Gemini Fine-tuning
+Integrating Gemini into Applications
+Gemini Agents
+Google Search Grounding
+Code Execution
+RAG & Tools
